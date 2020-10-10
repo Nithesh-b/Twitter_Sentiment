@@ -1,0 +1,47 @@
+Step 1 - Separate File Name
+
+FileName  ----> Step1-Group33-PreProcessing
+
+// Write comment as below in the code 
+This program does 
+	--- Write the tasks in bullet point in plain english 
+
+Print NLTK version numnber also 
+Print version for all libraries used 
+
+change commment to indicate input  and output folders 
+
+Give differnt meaningfule name for dataframe - tweet_df - change all references in the code 
+
+Before 252 insert a cell - Add markdown  indicating the start of pre processing activities 
+
+Understand the meaning of every line in the code / ppt 
+
+Understand each library used in the project 
+
+REad RAw data 
+
+Label Column Creation - Elaborate the logic with comments here
+
+Delete for rows 
+
+Drop for columns
+
+Before dropping or deleting rows or columns copy to another excel and save it has junk data 
+
+Heading for PIE Charts should be added
+
+Need to mention in comment why we are converting label to numeric form 
+
+Change the file names for every step 
+
+Write the REport - Problem Statment etc and send for review before next session 
+
+Next Step :- Discuss in next session 
+
+Next Step to be started in another Juypter file 
+
+
+
+
+
